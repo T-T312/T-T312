@@ -8,7 +8,7 @@
 
 💬 Ask me about **Python, Power BI, D3.js, RAG systems, or local LLM setups**
 
-📫 How to reach me: [LinkedIn](https://linkedin.com/in/YOUR_HANDLE) · YOUR_EMAIL
+📫 How to reach me: [LinkedIn](www.linkedin.com/in/thuong-tran-49b695287) · thuongtran8386@outlook.com
 
 ⚡ Fun fact: I run LLMs locally on my machine and benchmark them against each other for fun
 
@@ -31,6 +31,6 @@
 | Project | Description | Stack |
 |---|---|---|
 | 🌿 **TEK LLM** | RAG pipeline for traditional ecological knowledge preservation | Python, Ollama, ChromaDB, SQLite |
-| 🚗 **CTP Dashboard** | Insurance premium pricing dashboard with road crash data | D3.js, HTML/CSS/JS |
-| 📚 **FBOBS** | Full-stack bookstore app — led auth & infrastructure | Node.js, Express, SQLite |
 | 🛡️ **Malware Classifier** | ML model for malware detection and classification | Python, scikit-learn |
+| 🅾 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦 **Instagram Analyser for Growth** | Analyser to see the trend to assist with growing personal brand | Python, Pandas, scikit-learn |
+
