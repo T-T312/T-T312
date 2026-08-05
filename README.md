@@ -8,7 +8,7 @@
 
 💬 Ask me about **Python, Power BI, D3.js, RAG systems, or local LLM setups**
 
-📫 How to reach me: [LinkedIn](www.linkedin.com/in/thuong-tran-49b695287) · thuongtran8386@outlook.com
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/thuong-tran-49b695287) · thuongtran8386@outlook.com
 
 ⚡ Fun fact: I run LLMs locally on my machine and benchmark them against each other for fun
 
